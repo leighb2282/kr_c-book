@@ -1,0 +1,7 @@
+while c = getchar until you hit an EOF
+    if c equals space
+        putchar c (output c)
+        while c = getchar equals space
+            do nothing
+    if c doesn't equal space
+        putchar c (output c)
